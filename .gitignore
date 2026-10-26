@@ -1,0 +1,11 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor & OS directories
+.vscode/
+.idea/
+*.swp
+*.swo
