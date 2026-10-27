@@ -253,7 +253,7 @@ Automates the directory organizational structure and imports staff accounts from
 
 ---
 
-### Dataset: 16 Realistic Employee Records
+### Dataset: 16 Employee Records
 **File**: [`powershell-scripts/users.csv`](powershell-scripts/users.csv)
 
 | First Name | Last Name | Username | Department | Job Title | Email Address |
